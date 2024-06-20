@@ -22,3 +22,14 @@ class PhoneBook:
 
     def multiply(x,y):
         return x*y
+    
+    def divide(x,y):
+        return x/y
+    
+    def output(input):
+        print(input)
+
+    def isVowel(charac):
+        if charac in "aeiou":
+            return True
+        return False
