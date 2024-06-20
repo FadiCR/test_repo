@@ -16,3 +16,9 @@ class PhoneBook:
                 if number1.startswith(number2):
                     return False
         return True
+    
+    def subtract(x,y):
+        return x - y
+
+    def multiply(x,y):
+        return x*y
