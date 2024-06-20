@@ -33,3 +33,8 @@ class PhoneBook:
         if charac in "aeiou":
             return True
         return False
+    
+    def isBool(input):
+        if input == True or input == False:
+            return True
+        return False
