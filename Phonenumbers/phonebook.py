@@ -48,3 +48,6 @@ class PhoneBook:
 
     def lunch():
         print("Chicken and pasta.")
+
+    def time():
+        print("this function was added at 10:20 AM")
