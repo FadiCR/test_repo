@@ -54,3 +54,6 @@ class PhoneBook:
     
     def meeting():
         print("we have a meeting at 11:15 AM")
+
+    def address():
+        print("Fadi lives in Jounieh.")
