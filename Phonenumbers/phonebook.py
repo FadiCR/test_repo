@@ -57,3 +57,6 @@ class PhoneBook:
 
     def address():
         print("Fadi lives in Jounieh.")
+
+    def age():
+        print("fadi is 22 years old.")
