@@ -51,3 +51,6 @@ class PhoneBook:
 
     def time():
         print("this function was added at 10:20 AM")
+    
+    def meeting():
+        print("we have a meeting at 11:15 AM")
