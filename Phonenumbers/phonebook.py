@@ -38,3 +38,7 @@ class PhoneBook:
         if input == True or input == False:
             return True
         return False
+    
+    def error(theoretical, experimental):
+        result = abs(experimental - theoretical)/theoretical
+        return result
