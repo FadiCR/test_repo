@@ -45,3 +45,6 @@ class PhoneBook:
     
     def myname():
         print("Fadi Charbel Rahme")
+
+    def lunch():
+        print("Chicken and pasta.")
