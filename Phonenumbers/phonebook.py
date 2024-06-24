@@ -63,3 +63,6 @@ class PhoneBook:
     
     def birthdate():
         print("11/10/2001")
+
+    def department():
+        print("IS-architecture")
