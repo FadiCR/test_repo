@@ -60,3 +60,6 @@ class PhoneBook:
 
     def age():
         print("fadi is 22 years old.")
+    
+    def birthdate():
+        print("11/10/2001")
