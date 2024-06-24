@@ -42,3 +42,6 @@ class PhoneBook:
     def error(theoretical, experimental):
         result = abs(experimental - theoretical)/theoretical
         return result
+    
+    def myname():
+        print("Fadi Charbel Rahme")
